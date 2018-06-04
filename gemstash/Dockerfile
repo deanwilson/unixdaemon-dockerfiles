@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER govuk-role-platform-accounts-members@digital.cabinet-office.gov.uk
+MAINTAINER dean.wilson@gmail.com
 
 RUN apt-get update && \
     apt-get -y upgrade && \
